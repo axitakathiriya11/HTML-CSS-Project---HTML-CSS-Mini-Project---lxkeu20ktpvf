@@ -20,6 +20,6 @@ Used Technologies:
 HTML & CSS
 
 <h2>References</h2>
-https://preview.colorlib.com/#loaft
-https://preview.colorlib.com/#reshape
-https://preview.colorlib.com/#constructed
+https://preview.colorlib.com/#loaft <br>
+https://preview.colorlib.com/#reshape <br>
+https://preview.colorlib.com/#constructed 
